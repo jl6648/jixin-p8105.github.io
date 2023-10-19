@@ -34,7 +34,7 @@ plot_df |>
 
 ```
 
-this is a [link](http://www.google.com/) to a good data science tool. Here's a link to [P8105](http://p8105.com). Here is a link to the [about](about.html) page
+this is a [link](http://www.google.com/) to a good data science tool. Here's a link to [P8105](http://p8105.com). Here is a link to the [about](about.html) page. here is a link to the [projects](projects.html) page. 
 
 # Here is a new section
 
